@@ -3,7 +3,7 @@
 1. **Basic Filtering, CASE & NULL Handling**
    - [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
    - [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
-   - [627. Swap Salary](https://leetcode.com/problems/swap-salary/)
+   - [627. Swap Sex of Employees]([https://leetcode.com/problems/swap-salary/](https://leetcode.com/problems/swap-sex-of-employees/))
    - [608. Tree Node](https://leetcode.com/problems/tree-node/)
 
 2. **Joins & Relational Sets**
